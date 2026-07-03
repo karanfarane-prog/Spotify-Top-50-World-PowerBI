@@ -40,7 +40,18 @@ It provides insights into:
 ## 📷 Dashboard Preview
 
 ## Home page
-Dashboard pages/Screenshot 2026-07-03 183230.png
+![home]_(Dashboard pages/Screenshot 2026-07-03 183230.png)
+## Dashboard Overview
+
+![Overview](Images/dashboard-overview.png)
+
+## Artists Page
+
+![Artists](Images/artists-page.png)
+
+## Songs Page
+
+![Songs](Images/songs-page.png)
 
 ---
 
