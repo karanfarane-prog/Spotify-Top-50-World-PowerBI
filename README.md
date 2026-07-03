@@ -37,10 +37,10 @@ It provides insights into:
 - Time Series Analysis
 
 ---
-
 ## 📷 Dashboard Preview
 
-![Dashboard](Images/dashboard-overview.png)
+## Home page
+![Uploading Screenshot 2026-07-03 183759.png…]()
 
 ---
 
