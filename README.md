@@ -40,7 +40,7 @@ It provides insights into:
 ## 📷 Dashboard Preview
 
 ## Home page
-![Uploading Screenshot 2026-07-03 183759.png…]()
+Dashboard pages/Screenshot 2026-07-03 183230.png
 
 ---
 
