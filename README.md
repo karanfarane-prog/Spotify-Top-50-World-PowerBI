@@ -37,22 +37,6 @@ It provides insights into:
 - Time Series Analysis
 
 ---
-## 📷 Dashboard Preview
-
-## Home page
-![home]_(Dashboard pages/Screenshot 2026-07-03 183230.png)
-## Dashboard Overview
-
-![Overview](Dashboard pages/Screenshot 2026-07-03 183603.png)
-
-## Artists Page
-
-![Artists](Images/artists-page.png)
-
-## Songs Page
-
-![Songs](Images/songs-page.png)
-
 ---
 
 ## 📂 Dataset
