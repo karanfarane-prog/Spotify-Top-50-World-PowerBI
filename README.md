@@ -43,7 +43,7 @@ It provides insights into:
 ![home]_(Dashboard pages/Screenshot 2026-07-03 183230.png)
 ## Dashboard Overview
 
-![Overview](Spotify-Top-50-World-PowerBI/Dashboard pages/Screenshot 2026-07-03 183603.png)
+![Overview](Dashboard pages/Screenshot 2026-07-03 183603.png)
 
 ## Artists Page
 
