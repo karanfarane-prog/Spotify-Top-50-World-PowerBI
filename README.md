@@ -64,4 +64,4 @@ Your Name
 
 LinkedIn: Your LinkedIn Profile
 
-GitHub: https://github.com/YourUsername
+GitHub: https://github.com/karanfarane-prog
